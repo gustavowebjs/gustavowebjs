@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gustavovinife" target="blank"><img src="https://img.shields.io/twitter/follow/gustavovinife?logo=twitter&style=for-the-badge" alt="gustavovinife" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS CRM project**
+- 🔭 I’m currently working as **Software Enginner and Tech Lead** on Grupo IBRA Educacional
 
 - 🌱 I’m currently learning **New Javascript Tools**
 
