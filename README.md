@@ -14,9 +14,3 @@
 <a href="https://twitter.com/gustavovinife" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gustavovinife" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gustavo_vvinicius/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/gustavo_vvinicius/" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavowebjs&show_icons=true&locale=en&layout=compact" alt="gustavowebjs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavowebjs&" alt="gustavowebjs" /></p>
-
