@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **Software Enginner** at Startec
 
-- 🌱 I’m currently reading about **modern architectures in Front-End**
+- 🌱 I’m currently working with ReactJS/NodeJS Stack
 
 - 📊 Author of Rampp CRM http://web.rampp.com.br/
 
