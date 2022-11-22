@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as **Software Enginner** at Include Software - USA
 
-- 🌱 I’m currently working with ReactJS/NodeJS Stack using Typescript
+- 🌱 I’m currently working with ReactJS/NodeJS Stack using Typescript, Clean Architecture and Clean Code
 
-- 📊 Author of Rampp CRM http://web.rampp.com.br/
+- 📊 CO-Fouder and CTO Desky CRM https://rampp-front.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
