@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working with ReactJS/NodeJS Stack using Typescript, Clean Architecture and Clean Code
 
-- 📊 CO-Fouder and CTO Desky CRM https://rampp-front.vercel.app/
+- 📊 CO-Founder and CTO Desky CRM https://rampp-front.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
